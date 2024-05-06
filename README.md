@@ -2,7 +2,7 @@
 The repository contains the script for Deep Q-Learning (DQN) using the Lunar Lander of OpenAI Gym as the environment.
 
 # About the environment
-The environment used is the OpenAI gym Lunar-Lander v-2 environment. The goal of the task is to safely land a lunar lander ship within the landing area, the area between two yellow flags. The lunar lander can perform 4 actions.
+The environment used is the OpenAI gym LunarLander-v2 environment. The goal of the task is to safely land a lunar lander ship within the landing area, the area between two yellow flags. The lunar lander can perform 4 actions.
 
 | Action | Index |
 | :---:   | :---: |
